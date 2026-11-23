@@ -44,9 +44,9 @@ gcc sum1ton.c -o sum1ton
 Sum of numbers from 1 to 10 is 55
 ```
 
-![Sum of Numbers C Program](Screenshots/Screenshot%202026-11-23%20135416%282%29.png)
+![Sum of Numbers C Program](Screenshots/Screenshot%202026-11-23%20135416.png)
 
-![Native GCC Execution](Screenshots/Screenshot%202026-11-23%20135443%283%29.png)
+![Native GCC Execution](Screenshots/Screenshot%202026-11-23%20135443.png)
 
 ## 2. RISC-V Cross Compilation
 
@@ -76,7 +76,7 @@ The comparison showed that:
 - **O2:** The compiler optimized the program by calculating the result at compile time. The loop was eliminated.
 - **Ofast:** For this program, the generated assembly was identical to the `-O2` output.
 
-![Assembly Optimization Comparison](Screenshots/Screenshot%202026-11-23%20154416%282%29.png)
+![Assembly Optimization Comparison](Screenshots/Screenshot%202026-11-23%20154416.png)
 
 ## 3. RISC-V Assembly and Disassembly Analysis
 
@@ -104,7 +104,7 @@ Some instructions observed:
 
 The disassembly helped correlate the C program with its corresponding RISC-V instructions.
 
-![RISC-V Main Function Disassembly](Screenshots/Screenshot%202026-11-23%20155700%282%29.png)
+![RISC-V Main Function Disassembly](Screenshots/Screenshot%202026-11-23%20155700.png)
 
 ## 4. Execution Using Spike RISC-V ISA Simulator
 
@@ -155,9 +155,9 @@ The following observations were made:
 
 The `until pc` command can be used to run the simulator until a specified program counter address is reached.
 
-![Spike Debugging and Register Inspection](Screenshots/Screenshot%202026-11-23%20160714%282%29.png)
+![Spike Debugging and Register Inspection](Screenshots/Screenshot%202026-11-23%20160714.png)
 
-![Spike Debugging Session](Screenshots/Screenshot%202026-11-23%20160750%282%29.png)
+![Spike Debugging Session](Screenshots/Screenshot%202026-11-23%20160750.png)
 
 ## 6. Signed Integer Limits in C
 
@@ -205,7 +205,7 @@ Although the target architecture is RV64, the C `int` data type is 32 bits under
 | `INT_MAX` | 2147483647 |
 | `INT_MIN` | -2147483648 |
 
-![Signed Integer Limits C Program](Screenshots/Screenshot%202026-11-23%20161246%282%29.png)
+![Signed Integer Limits C Program](Screenshots/Screenshot%202026-11-23%20161246.png)
 
 ## 7. Key Learnings
 
