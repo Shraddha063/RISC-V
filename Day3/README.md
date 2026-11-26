@@ -37,11 +37,11 @@ $quot[31:0] = ($val2 != 0) ?
 
 ### Block Diagram
 
-![Sequential Calculator Block Diagram](./Screenshots/Screenshot%202026-11-26%20105121%282%29.png)
+![Sequential Calculator Block Diagram](./Screenshots/Screenshot%202026-11-26%20105121.png)
 
 ### Simulation Waveform
 
-![Sequential Calculator Waveform](./Screenshots/Screenshot%202026-11-26%20105143%281%29.png)
+![Sequential Calculator Waveform](./Screenshots/Screenshot%202026-11-26%20105143.png)
 
 ---
 
@@ -85,11 +85,11 @@ c = \sqrt{a^2+b^2}
 
 ### Block Diagram
 
-![Four Stage Pipelined Pythagorean Calculator](./Screenshots/Screenshot%202026-11-26%20111909%281%29.png)
+![Four Stage Pipelined Pythagorean Calculator](./Screenshots/Screenshot%202026-11-26%20111909.png)
 
 ### Simulation Waveform
 
-![Four Stage Pipeline Simulation Waveform](./Screenshots/Screenshot%202026-11-26%20112426%281%29.png)
+![Four Stage Pipeline Simulation Waveform](./Screenshots/Screenshot%202026-11-26%20112426.png)
 
 ---
 
