@@ -137,11 +137,11 @@ Designed a resettable 4-bit counter using sequential logic in TL-Verilog. The co
 
 **Counter implementation:**
 
-![4-bit Counter RTL](./Screenshots/Screenshot%202026-11-25%20152402(1).png)
+![4-bit Counter RTL](./Screenshots/Screenshot%202026-11-25%20152402.png)
 
 **Simulation waveform:**
 
-![4-bit Counter Waveform](./Screenshots/Screenshot%202026-11-25%20152417(1).png)
+![4-bit Counter Waveform](./Screenshots/Screenshot%202026-11-25%20152417.png)
 
 ## Fibonacci Sequence Generator
 
@@ -149,11 +149,11 @@ Implemented a Fibonacci sequence generator using sequential logic and pipeline r
 
 **Fibonacci implementation:**
 
-![Fibonacci RTL and Diagram](./Screenshots/Screenshot%202026-11-25%20153119(1).png)
+![Fibonacci RTL and Diagram](./Screenshots/Screenshot%202026-11-25%20153119.png)
 
 **Simulation waveform:**
 
-![Fibonacci Waveform](./Screenshots/Screenshot%202026-11-25%20153136(1).png)
+![Fibonacci Waveform](./Screenshots/Screenshot%202026-11-25%20153136.png)
 
 
 ## Sequential Calculator
@@ -162,11 +162,11 @@ Implemented a sequential calculator supporting arithmetic operations such as add
 
 **Sequential calculator implementation:**
 
-![Sequential Calculator RTL and Diagram](./Screenshots/Screenshot%202026-11-25%20164844(1).png)
+![Sequential Calculator RTL and Diagram](./Screenshots/Screenshot%202026-11-25%20164844.png)
 
 **Simulation waveform:**
 
-![Sequential Calculator Waveform](./Screenshots/Screenshot%202026-11-25%20165017(1).png)
+![Sequential Calculator Waveform](./Screenshots/Screenshot%202026-11-25%20165017.png)
 
 
 ## Pythagorean Calculation Using Pipelining
@@ -175,11 +175,11 @@ Implemented a Pythagorean calculation using pipelined stages. The design calcula
 
 **Pipelined implementation:**
 
-![Pythagorean Pipeline RTL and Diagram](./Screenshots/Screenshot%202026-11-25%20161103(1).png)
+![Pythagorean Pipeline RTL and Diagram](./Screenshots/Screenshot%202026-11-25%20161103.png)
 
 **Simulation waveform:**
 
-![Pythagorean Pipeline Waveform](./Screenshots/Screenshot%202026-11-25%20163715(1).png)
+![Pythagorean Pipeline Waveform](./Screenshots/Screenshot%202026-11-25%20163715.png)
 
 ## Key Learnings
 
